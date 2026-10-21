@@ -31,6 +31,10 @@ Welcome to my GitHub profile! I'm a Computer Science engineering student current
 **Tools & Environment:** <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" alt="Git" title="Git" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" title="VS Code" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="60" height="60" alt="Postman" title="Postman" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" title="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="60" height="60" alt="Firebase" title="Firebase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="60" height="60" alt="Ubuntu" title="Ubuntu" />
 
 ---
 
