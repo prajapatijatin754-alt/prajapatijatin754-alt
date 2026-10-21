@@ -38,9 +38,10 @@ Welcome to my GitHub profile! I'm a Computer Science engineering student current
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="60" height="60" alt="Ubuntu" title="Ubuntu" />
 
 ---
+<!--
 [![LeetCode Stats](https://leetcard.jacoblin.cool/JATIN_PRAJAPTI)](https://leetcode.com/u/JATIN_PRAJAPTI/)
 [![CodeChef Stats](https://codechef-readme-stats.onrender.com/forevr_knigt18?v=1)](https://www.codechef.com/users/forevr_knigt18)
-
+-->
 ### 🌐 Let's Connect
 
 <p align="left">
