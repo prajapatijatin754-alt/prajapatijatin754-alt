@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm JATIN PRAJAPATI 👋
 
 ### 🎓 B.Tech CSE Student (3rd Semester) | Aspiring Software Engineer
 
@@ -10,26 +10,21 @@ Welcome to my GitHub profile! I'm a Computer Science engineering student current
 
 * 🏫 Currently pursuing my B.Tech in Computer Science and Engineering.
 * 📚 This semester, I'm focusing on **Data Structures, Algorithms, and Object-Oriented Programming**.
-* 🌱 I’m currently learning **[e.g., C++, Java, or Web Development]**.
-* 🔭 I’m working on **[mention a mini-project, e.g., a student management system or a personal portfolio website]**.
+* 🌱 I’m currently learning **Web Development and JAVA**.
 * 👯 I’m looking to collaborate on **beginner-friendly open-source projects** and hackathons.
-* 💬 Ask me about **[e.g., C, basic Python, or my coursework]**.
-* 📫 How to reach me: **[Your Email]** or connect on **[LinkedIn](Your LinkedIn URL)**.
-
----
+* 📫 How to reach me: **prajapatijatin754@gmail.com** or connect on **www.linkedin.com/in/jatin-prajapati-717680380**.
 
 ### 💻 Tech Stack & Tools
 
-**Languages:** 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-*[Update these based on the languages you've learned so far!]*
+**Languages:** <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60" alt="C" title="C" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" title="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60" alt="Java" title="Java" />
 
-**Tools & Environment:**
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+**Tools & Environment:** <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" alt="Git" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" title="VS Code" />
 
 ---
 
