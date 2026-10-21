@@ -16,15 +16,15 @@ Welcome to my GitHub profile! I'm a Computer Science engineering student current
 
 ### 💻 Tech Stack & Tools
 
-**Languages:** <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60" alt="C" title="C" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" title="C++" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60" alt="Java" title="Java" />
+**Languages & Frameworks:** <br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,nodejs,react,flutter,dart&theme=light&perline=8" />
+</a>
 
 **Tools & Environment:** <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" alt="Git" title="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" title="VS Code" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,vscode&theme=light" />
+</a>
 
 ---
 
