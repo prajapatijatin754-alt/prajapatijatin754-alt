@@ -33,16 +33,6 @@ Welcome to my GitHub profile! I'm a Computer Science engineering student current
 
 ---
 
-### 📊 GitHub Stats
-
-> *Note: Replace `YOUR_GITHUB_USERNAME` with your actual username in the links below to make the stats visible.*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" width="48%">
-</p>
-
----
 
 ### 🌐 Let's Connect
 
