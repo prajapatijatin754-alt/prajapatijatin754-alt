@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a Computer Science engineering student current
 
 ---
 [![LeetCode Stats](https://leetcard.jacoblin.cool/JATIN_PRAJAPTI)](https://leetcode.com/u/JATIN_PRAJAPTI/)
-[![CodeChef Stats](https://codechef-readme-stats.onrender.com/{your_codechef_username}?v=1)](https://www.codechef.com/users/{your_codechef_username})
+[![CodeChef Stats](https://codechef-readme-stats.onrender.com/forevr_knigt18?v=1)](https://www.codechef.com/users/forevr_knigt18)
 
 ### 🌐 Let's Connect
 
